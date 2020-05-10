@@ -1,8 +1,6 @@
 # Kaggle competititon: Diamonds
 # `Supervised Machine Learning`
 
-
-
 This project is a [Kaggle competition](https://www.kaggle.com/c/diamonds-datamad0320/overview) whose goal is to predict the price of diamonds based on their characteristics. For this purpose, three datasets are given:
 
 - **Dataset for model training:** This dataset contains **40345 records**, **9 features** containing the predictive values and a last column with the `price` of each record. The 9 predictive features are:
