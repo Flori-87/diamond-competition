@@ -24,7 +24,7 @@ This project is a [Kaggle competition](https://www.kaggle.com/c/diamonds-datamad
         
         - color: diamond colour, from J (worst) to D (best)
         
-        - clarity: a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
+        - clarity: a measure of how clear the diamond is (I1(worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF(best))
         
         
 - **Dataset for model test:** This dataset contains the same information about new records (new diamonds), except the price which will be predicted by the trained model with the training dataset.
