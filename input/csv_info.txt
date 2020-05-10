@@ -1,0 +1,1 @@
+csv files used for this project have been download from this url in kaggle: https://www.kaggle.com/c/diamonds-datamad0320
