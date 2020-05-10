@@ -1,1 +1,1 @@
-## Diamond competititon
+## Diamond dataset for `Supervised Machine Learning`: Kaggle competititon
