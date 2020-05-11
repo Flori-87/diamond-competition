@@ -1,6 +1,12 @@
 ![imagen](https://github.com/Flori-87/diamond-competition/blob/master/input/Image.JPG)
 
-This project is a [Kaggle competition](https://www.kaggle.com/c/diamonds-datamad0320/overview) whose goal is to predict the price of diamonds based on their characteristics. For this purpose, three datasets are given:
+## **Project goal**
+
+This project is a [Kaggle competition](https://www.kaggle.com/c/diamonds-datamad0320/overview) whose goal is to predict the price of diamonds based on their characteristics to put in practice our knowledge about supervised Machine Learning. 
+
+## **Dataset overview**
+
+For this purpose, three datasets are given:
 
 - **Dataset for model training:** This dataset contains **40345 records**, **9 features** containing the predictive values and a last column with the `price` of each record. The 9 predictive features are:
   - Numeric features: proportions and weight of diamonds
@@ -30,6 +36,6 @@ This project is a [Kaggle competition](https://www.kaggle.com/c/diamonds-datamad
 
 - **Sample of dataset for submission:** The dataset for submission must contain only two columns: id (th same ID number for the records in the test dataset) and price (predicted prices for records in test dataset by trained model).
 
-##Summary of approachs
+## **Summary of implemented approachs**
 ![imagen](https://github.com/Flori-87/diamond-competition/blob/master/input/flowchart.JPG)
   
