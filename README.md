@@ -29,5 +29,7 @@ This project is a [Kaggle competition](https://www.kaggle.com/c/diamonds-datamad
 - **Dataset for model test:** This dataset contains the same information about new records (new diamonds), except the price which will be predicted by the trained model with the training dataset.
 
 - **Sample of dataset for submission:** The dataset for submission must contain only two columns: id (th same ID number for the records in the test dataset) and price (predicted prices for records in test dataset by trained model).
-        
+
+##Summary of approachs
+![imagen](https://github.com/Flori-87/diamond-competition/blob/master/input/flowchart.JPG)
   
