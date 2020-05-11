@@ -1,5 +1,4 @@
-# Kaggle competititon: Diamonds
-## `Supervised Machine Learning`
+![imagen](https://github.com/Flori-87/diamond-competition/blob/master/input/Image.JPG)
 
 This project is a [Kaggle competition](https://www.kaggle.com/c/diamonds-datamad0320/overview) whose goal is to predict the price of diamonds based on their characteristics. For this purpose, three datasets are given:
 
